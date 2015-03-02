@@ -1,0 +1,36 @@
+﻿#divCookieMessage {
+    background-color: #f5f5f5;
+	position: fixed;
+	bottom: 0px;
+	width: 1000px;
+    height: 35px;
+	overflow: visible;
+	z-index: 1000000;
+	padding-top: 5px;
+	padding-bottom: 3px;
+	border-top: solid white 2px;
+}
+
+#divCookieMessage #cookieMessageContainer #cookieMessage {
+text-align: center;
+margin-top: 10px;
+font-size: 12px;
+}
+
+#divCookieMessage #cookieMessageContainer #cookieMessage #cookieMessageClose a {
+    background: transparent url('/lib/img/new-close-popin.png') left top no-repeat;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    z-index: 8040;
+    float: right;
+    text-indent:-1000px;
+    overflow:hidden;
+}
+
+#divCookieMessage a {
+    color:#404040;
+}

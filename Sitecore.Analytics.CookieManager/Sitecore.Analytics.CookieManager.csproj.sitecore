@@ -1,0 +1,6 @@
+﻿<Project>
+  <Site Server="sc72rev140526" UserName="sitecore\admin" IsRemoteSitecore="False" />
+  <File Include="layouts\sublayouts\CookieMessage.ascx" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0" />
+  <File Include="layouts\sublayouts\CookieMessage.ascx.cs" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0" />
+  <File Include="layouts\sublayouts\CookieMessage.ascx.designer.cs" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0" />
+</Project>
